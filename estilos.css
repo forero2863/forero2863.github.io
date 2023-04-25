@@ -1,0 +1,72 @@
+body {
+    background-image: url(../DaddyYankee/blanco.jpg);
+    font-family: "Courier New";
+}
+
+#container {
+    background-color: #FFFFFFB8;
+}
+
+header {
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    line-height: 50px;
+    color: black;
+    border: 5px outset gold;
+    font-family: "Courier New";
+}
+
+nav {
+    height: 80px;
+    border: 5px outset gold;
+}
+
+nav ul li {
+    float: left;
+    list-style: square;
+    margin: 10px;
+    line-height: 30px;
+    color: black;
+}
+
+p {
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+}
+
+label {
+    font-style: italic;
+    font-weight: bold;
+    color: black
+}
+
+h2 {
+    text-decoration: underline;
+    color: black;
+}
+
+button {
+    background-color: gold;
+    font-weight: bold;
+}
+
+#content {
+    min-height: 50px;
+    padding: 15px;
+    border: 5px outset gold;
+    ;
+}
+
+form {
+    background-color: white;
+    margin: 10px auto;
+    width: 500px;
+    padding: 15px;
+    border: 5px outset gold;
+}
+
+a {
+    color: black;
+}
